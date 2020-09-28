@@ -1,7 +1,7 @@
 # Quotes application
 #### {Quotes application displays different quotes and their types then allows one to add a new quote. on each quote the user is able to upvote or downvote on that specific vote.}
 
-#### By {Christine Njeri}
+#### By {Collins Koech}
 
 ## Technologies Used
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
@@ -34,4 +34,4 @@ For any queries feel free to contact me via my email address christiemwaura@gmai
 
 ### License
 To view the license check out the license file attached to this application
-Copyright (c) {2019} {Christine Njeri}
+Copyright (c) {2020} {Collins Koech}
